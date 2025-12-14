@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## T-4: Implement Rent Bike Page" 
+"User views available bikes, User selected a bike rental duration,System Checks availability and confirms rental." 
+"**Status: Implemented**" 
+"" 
