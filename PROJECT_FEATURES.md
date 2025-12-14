@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"##T-3: Implement Add bike" 
+"This task involves adding bike with bike name,bike model and regestration number." 
+"**Status: Implemented**" 
+"" 
